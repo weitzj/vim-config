@@ -296,6 +296,7 @@ endif
 "}}}
 if dein#tap('goyo.vim') "{{{
 	nnoremap <Leader>G :Goyo<CR>
+	let g:goyo_width = 82
 endif
 
 "}}}
