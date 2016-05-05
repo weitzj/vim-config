@@ -181,7 +181,7 @@ set scrolloff=2         " Keep at least 2 lines above/below
 set sidescrolloff=2     " Keep at least 2 lines left/right
 set pumheight=20        " Pop-up menu's line height
 set number              " Show line numbers
-set relativenumber      " Use relative instead of absolute line numbers
+"set relativenumber      " Use relative instead of absolute line numbers
 set noruler             " Disable default status ruler
 set list                " Show hidden characters
 
